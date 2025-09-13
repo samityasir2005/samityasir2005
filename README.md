@@ -12,7 +12,7 @@
 - **Languages:** Python · JavaScript (ES6+) · Java · C · PHP  
 - **Frontend:** React · HTML5 · CSS3  
 - **Backend:** Node.js · Express  
-- **AI / ML:** TensorFlow  
+- **AI / ML:** Pytorch, TensorFlow  
 - **Other Tools:** Git · SQL · REST APIs  
 
 ---
