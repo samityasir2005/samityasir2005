@@ -35,7 +35,6 @@
 
 **Tools & Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
@@ -52,7 +51,7 @@ Built a PyTorch neural network that analyzes 19 fighter statistics to predict ma
 - Trained on 10,000+ UFC fights
 - Custom matchup predictions with confidence scores
 
-[View Repository →](https://github.com/samit-yasir/ufc-fight-predictor)
+[View Repository →](https://github.com/samityasir2005/ufc_predictor_ML)
 
 ---
 
@@ -66,7 +65,7 @@ Built a PyTorch neural network that analyzes 19 fighter statistics to predict ma
 - Team performance analytics
 - Territory management
 - Mobile-responsive design
-[View Repository →](https://github.com/samit-yasir/ufc-fight-predictor)
+[View Repository →](https://github.com/JarifYasir/Turtle_Sales)
 ---
 
 ### 📝 React To-Do List
@@ -80,7 +79,7 @@ A clean, intuitive task management app demonstrating modern React best practices
 - Persistent storage
 - Responsive UI design
 
-[View Repository →](https://github.com/samit-yasir/ufc-fight-predictor)
+[View Repository →](https://github.com/samityasir2005/React-TodoList-application)
 
 ---
 
