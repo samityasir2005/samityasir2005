@@ -65,21 +65,23 @@ Built a PyTorch neural network that analyzes 19 fighter statistics to predict ma
 - Team performance analytics
 - Territory management
 - Mobile-responsive design
-[View Repository →](https://github.com/JarifYasir/Turtle_Sales)
+
+[🌐 Website →](https://turtlesales.ca) | [View Repository →](https://github.com/JarifYasir/Turtle_Sales)
+
 ---
 
 ### 📝 React To-Do List
 **Minimalist productivity application**  
-A clean, intuitive task management app demonstrating modern React best practices.
+A clean, intuitive task management app with day-based organization and persistent storage.
 
-**Tech Stack:** React · Local Storage API  
+**Tech Stack:** React · Vite · Local Storage API  
 **Features:**
-- Add, edit, and delete tasks
+- Weekly day-based organization
 - Mark tasks as complete
 - Persistent storage
-- Responsive UI design
+- Responsive, minimal design
 
-[View Repository →](https://github.com/samityasir2005/React-TodoList-application)
+[🌐 Live Demo →](https://samityasir2005.github.io/React-TodoList-application/) | [View Repository →](https://github.com/samityasir2005/React-TodoList-application)
 
 ---
 
