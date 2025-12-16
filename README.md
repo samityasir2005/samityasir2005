@@ -3,6 +3,8 @@
 🎓 3rd-year Computer Science student at **Wilfrid Laurier University**  
 💻 Passionate about AI, machine learning, and building innovative software solutions.
 
+🌐 **Portfolio:** [https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samit-yasir/)  
 📫 **Email:** yasi7706@mylaurier.ca
 
@@ -41,11 +43,13 @@
 ## 🚀 Featured Projects
 
 ### 🥊 UFC Fight Predictor
+
 **Deep learning model for predicting UFC fight outcomes**  
 Built a PyTorch neural network that analyzes 19 fighter statistics to predict match winners with 62-65% accuracy.
 
 **Tech Stack:** Python · PyTorch · scikit-learn · pandas  
 **Features:**
+
 - 4-layer neural network with dropout regularization
 - Data augmentation to remove position bias
 - Trained on 10,000+ UFC fights
@@ -56,11 +60,13 @@ Built a PyTorch neural network that analyzes 19 fighter statistics to predict ma
 ---
 
 ### 🐢 Turtle Sales
+
 **Comprehensive sales management platform**  
-*Collaborative project* — An all-in-one solution for managing door-to-door sales teams.
+_Collaborative project_ — An all-in-one solution for managing door-to-door sales teams.
 
 **Tech Stack:** React · Node.js · Express  
 **Features:**
+
 - Real-time sales tracking dashboard
 - Team performance analytics
 - Territory management
@@ -71,11 +77,13 @@ Built a PyTorch neural network that analyzes 19 fighter statistics to predict ma
 ---
 
 ### 📝 React To-Do List
+
 **Minimalist productivity application**  
 A clean, intuitive task management app with day-based organization and persistent storage.
 
 **Tech Stack:** React · Vite · Local Storage API  
 **Features:**
+
 - Weekly day-based organization
 - Mark tasks as complete
 - Persistent storage
@@ -91,8 +99,8 @@ I'm always open to collaboration opportunities, interesting projects, and learni
 
 - 📧 **Email:** yasi7706@mylaurier.ca
 - 💼 **LinkedIn:** [linkedin.com/in/samit-yasir](https://www.linkedin.com/in/samit-yasir/)
-- 🌐 **Portfolio:** *Coming Soon*
+- 🌐 **Portfolio:** _Coming Soon_
 
 ---
 
-⭐ *Check out my pinned repositories for highlighted projects!*
+⭐ _Check out my pinned repositories for highlighted projects!_
