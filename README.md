@@ -103,4 +103,5 @@ I'm always open to collaboration opportunities, interesting projects, and learni
 
 ---
 
-⭐ _Check out my pinned repositories for highlighted projects!_
+⭐ _Check out my pinned repositories for highlighted projects!_![noFilter](https://github.com/user-attachments/assets/0ce817d2-c9d9-42db-a482-f493e3b906b2)
+
