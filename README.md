@@ -1,4 +1,4 @@
-# Yo! I'm Samit check out my stuff.
+# Yo! I'm Samit check out my profile.
 
 🎓 3rd-year Computer Science student at **Wilfrid Laurier University**  
 💻 Passionate about AI, machine learning, and building innovative software solutions.
@@ -103,7 +103,7 @@ I'm always open to collaboration opportunities, interesting projects, and learni
 
 ---
 
-⭐ _Check out my pinned repositories for highlighted projects!
+⭐ Check out my pinned repositories for highlighted projects!
 
 
 ![images](https://github.com/user-attachments/assets/9776e63d-2565-41a6-99db-d70a38a75c9f)
