@@ -1,4 +1,4 @@
-# Yo, I'm Samit Yasir check out my stuff!
+# Yo, I'm Samit check out my stuff!
 
 🎓 3rd-year Computer Science student at **Wilfrid Laurier University**  
 💻 Passionate about AI, machine learning, and building innovative software solutions.
