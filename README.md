@@ -1,9 +1,9 @@
 # Yo! I'm Samit check out my profile.
 
-🎓 3rd-year Computer Science student at **Wilfrid Laurier University**  
-💻 Passionate about AI, machine learning, and building innovative software solutions.
+I am a 3rd-year Computer Science student at **Wilfrid Laurier University**  who is
+Passionate about AI, machine learning, and building innovative software solutions.
 
-🌐 **Portfolio:** [https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
+🌐 **(VERY COOL) Portfolio:** [https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samit-yasir/)  
 📫 **Email:** yasi7706@mylaurier.ca
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🥊 UFC Fight Predictor
 
@@ -93,13 +93,13 @@ A clean, intuitive task management app with day-based organization and persisten
 
 ---
 
-## 💼 Let's Connect
+## Connect with me:
 
 I'm always open to collaboration opportunities, interesting projects, and learning new technologies!
 
 - 📧 **Email:** yasi7706@mylaurier.ca
 - 💼 **LinkedIn:** [linkedin.com/in/samit-yasir](https://www.linkedin.com/in/samit-yasir/)
-- 🌐 **Portfolio:** _Coming Soon_
+- 🌐 **Portfolio:**[https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
 
 ---
 
