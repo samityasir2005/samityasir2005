@@ -98,8 +98,8 @@ A clean, intuitive task management app with day-based organization and persisten
 I'm always open to collaboration opportunities, interesting projects, and learning new technologies!
 
 - 📧 **Email:** yasi7706@mylaurier.ca
-- 💼 **LinkedIn:** [linkedin.com/in/samit-yasir](https://www.linkedin.com/in/samit-yasir/)
-- 🌐 **Portfolio:**[https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
+- 💼 **LinkedIn:** [Click here](https://www.linkedin.com/in/samit-yasir/)
+- 🌐 **Portfolio:**[Click here](https://samityasir2005.github.io/samit-portfolio-website/)
 
 ---
 
