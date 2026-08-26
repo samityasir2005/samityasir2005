@@ -1,9 +1,9 @@
 # Yo! I'm Samit check out my profile.
 
 I am a 3rd-year Computer Science student at **Wilfrid Laurier University**  who is
-Passionate about AI, machine learning, and building innovative software solutions.
+Passionate about AI, and building innovative software solutions.
 
-🌐 **(VERY COOL) Portfolio:** [https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
+🌐 Portfolio:** [https://samityasir2005.github.io/samit-portfolio-website/](https://samityasir2005.github.io/samit-portfolio-website/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samit-yasir/)  
 📫 **Email:** yasi7706@mylaurier.ca
